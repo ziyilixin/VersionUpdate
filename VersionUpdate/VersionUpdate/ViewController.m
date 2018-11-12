@@ -38,7 +38,7 @@
 
 - (void)showUpdateView:(NSString *)newVersion
 {
-    NSString *alertMsg = [NSString stringWithFormat:@"贷哪儿v%0.1f，赶快体验最新版本吧！",[newVersion floatValue]];
+    NSString *alertMsg = [NSString stringWithFormat:@"贷款v%0.1f，赶快体验最新版本吧！",[newVersion floatValue]];
     UIAlertController *alert = [UIAlertController alertControllerWithTitle:@"发现新版本" message:alertMsg preferredStyle:UIAlertControllerStyleAlert];
     
     [alert addAction:[UIAlertAction actionWithTitle:@"稍后再说" style:UIAlertActionStyleCancel handler:^(UIAlertAction * _Nonnull action) {
