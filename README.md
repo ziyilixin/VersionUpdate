@@ -2,7 +2,7 @@
 A VersionUpdate program
 
 屏幕截图
-![]()
+![](https://github.com/ziyilixin/VersionUpdate/blob/master/VersionUpdate/VersionUpdate/Picture/Loan.png?raw=true)
 
 ## 检查版本
 ```objc
