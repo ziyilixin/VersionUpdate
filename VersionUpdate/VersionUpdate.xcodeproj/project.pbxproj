@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BB0CBF2A2199813700080BD5 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = BB0CBF292199813700080BD5 /* 1.png */; };
+		BB0CBF2C219982B900080BD5 /* Loan.png in Resources */ = {isa = PBXBuildFile; fileRef = BB0CBF2B219982B900080BD5 /* Loan.png */; };
 		BB5F797920B3B95600470324 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = BB5F797820B3B95600470324 /* AppDelegate.m */; };
 		BB5F797C20B3B95600470324 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BB5F797B20B3B95600470324 /* ViewController.m */; };
 		BB5F797F20B3B95600470324 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BB5F797D20B3B95600470324 /* Main.storyboard */; };
@@ -21,7 +21,7 @@
 /* Begin PBXFileReference section */
 		03D0117ABC55439BBEB68C73 /* libPods-VersionUpdate.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-VersionUpdate.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A89F67BCC347170BD4069328 /* Pods-VersionUpdate.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-VersionUpdate.release.xcconfig"; path = "Pods/Target Support Files/Pods-VersionUpdate/Pods-VersionUpdate.release.xcconfig"; sourceTree = "<group>"; };
-		BB0CBF292199813700080BD5 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		BB0CBF2B219982B900080BD5 /* Loan.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Loan.png; sourceTree = "<group>"; };
 		BB5F797420B3B95600470324 /* VersionUpdate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VersionUpdate.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BB5F797720B3B95600470324 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		BB5F797820B3B95600470324 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -69,7 +69,7 @@
 		BB0CBF282199811600080BD5 /* Picture */ = {
 			isa = PBXGroup;
 			children = (
-				BB0CBF292199813700080BD5 /* 1.png */,
+				BB0CBF2B219982B900080BD5 /* Loan.png */,
 			);
 			path = Picture;
 			sourceTree = "<group>";
@@ -172,7 +172,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BB5F798420B3B95700470324 /* LaunchScreen.storyboard in Resources */,
-				BB0CBF2A2199813700080BD5 /* 1.png in Resources */,
+				BB0CBF2C219982B900080BD5 /* Loan.png in Resources */,
 				BB5F798120B3B95700470324 /* Assets.xcassets in Resources */,
 				BB5F797F20B3B95600470324 /* Main.storyboard in Resources */,
 			);
